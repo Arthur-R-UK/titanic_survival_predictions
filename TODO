@@ -1,0 +1,7 @@
+Check what the DataFrame looks like after the first bit of preprocessing, to make sure nothing untoward is happening
+Work out how to include the second 'last resort' preprocessor
+Consider scaling numerical features
+Consider removing outliers, e.g. in the Fare column?
+Hyperparameter tuning
+Evaluate and improve the model
+Once I've got a decent result, go back and tidy up the notebook
