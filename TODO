@@ -1,8 +1,1 @@
-What is going on with the simpleimputer in the age feature? 
-Consider scaling more features 
-Consider removing outliers? (Fare in particular) 
-Anything useful to do with SibSp or Parch? 
-Hyperparameter tuning 
-Try different ML algorithms? 
-Evaluate and improve the model 
-Once I've got a decent result, go back and tidy up the notebook
+Tidy up
