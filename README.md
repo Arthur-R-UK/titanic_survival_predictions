@@ -3,7 +3,8 @@ My entry to the Titanic competition on Kaggle, www.kaggle.com/competitions/titan
 
 Includes:
 * Data exploration (including use of mutual information scores)
-* Data cleaning, preprocessing and feature engineering, 
+* Data cleaning, preprocessing and feature engineering
+* Clustering
 * Pipelines
 * Data visualisation (using a variety of plots)
 * Cross-validation
